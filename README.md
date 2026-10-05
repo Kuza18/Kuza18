@@ -1,4 +1,5 @@
- Hi!👋 My name is Anyuta Kaminskaya and I am a Software Development student at the State College of Florida. Welcome to my GitHub page!
+ Hi!👋 My name is Anyuta Kaminskaya and I am a Software Development student at the State College of Florida.\
+ Welcome to my GitHub page!
 
 ### 📖 I'm Currently Learning...
 ---
